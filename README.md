@@ -9,3 +9,9 @@ https://github.com/user-attachments/assets/76b2641f-c348-4744-a3ee-f8242a0fb8ea
        
 <video src="https://raw.githubusercontent.com/huntfx/test/main/video.mp4"
        autoplay loop muted playsinline width="300"></video>
+
+<video src="https://raw.githubusercontent.com/huntfx/test/main/video.gif"
+       autoplay loop muted playsinline></video>
+       
+<video src="https://raw.githubusercontent.com/huntfx/test/main/video.webm"
+       autoplay loop muted playsinline width="300"></video>
